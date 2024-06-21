@@ -68,25 +68,27 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 
 ### Connect With Me
 
-[<img align="left" alt="Abdul Mussavir | Bold.pro" width="28px" src="https://www.vectorlogo.zone/logos/bold/bold-tile.svg" />][boldpro]
-[<img align="left" alt="Abdul Mussavir | Personal Website" width="28px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" />][website]
-[<img align="left" alt="GitHub" width="28px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
+<div align="center">
+  <a href="https://bold.pro/my/abdul-mussavir-230801235445"><img align="center" alt="Abdul Mussavir | Bold.pro" width="28px" src="https://www.vectorlogo.zone/logos/bold/bold-tile.svg" /></a>
+  <a href="https://aussieanalyst.com"><img align="center" alt="Abdul Mussavir | Personal Website" width="28px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" /></a>
+  <a href="https://github.com/abdul-mussavir"><img align="center" alt="GitHub" width="28px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></a>
+</div>
 
-<br />
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="R-Programming" width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />][r-programming]
-[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />][python]
-[<img align="left" alt="Excel" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" />][excel]
-[<img align="left" alt="PowerBI" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />][powerbi]
-[<img align="left" alt="Tableau" width="26px" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" />][tableau]
-[<img align="left" alt="Google Sheets" width="26px" src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" />][google-sheets]
-[<img align="left" alt="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][sql]
-[<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
+<div align="center">
+  <a href="https://www.r-project.org"><img align="center" alt="R-Programming" width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" /></a>
+  <a href="https://www.python.org"><img align="center" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img align="center" alt="Excel" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" /></a>
+  <a href="https://powerbi.microsoft.com"><img align="center" alt="PowerBI" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" /></a>
+  <a href="https://www.tableau.com"><img align="center" alt="Tableau" width="26px" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" /></a>
+  <a href="https://www.google.com/sheets/about/"><img align="center" alt="Google Sheets" width="26px" src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" /></a>
+  <a href="https://www.mysql.com"><img align="center" alt="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
+  <a href="https://github.com/abdul-mussavir"><img align="center" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></a>
+</div>
 
-<br />
 <br />
 
 <h1 align="center">👨‍💻 Abdul's Coding Journey</h1>
