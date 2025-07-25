@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://bold.pro/my/abdul-mussavir-230801235445">Abdul Mussavir</a></h1>
-<h3 align="center">Data Analyst, WordPress Designer, and Digital Marketer</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.aussieanalyst.com/">Abdul Mussavir</a></h1>
+<h3 align="center">Data Analyst, Data Scientist & Machine Learning/AI Enthusiast</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=abdul-mussavir&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
@@ -10,12 +10,13 @@
 
 ### Introduction
 
-I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I specialize in acquiring, integrating, organizing, cleaning, and validating data. I take pleasure in transforming complex data-related challenges into simple, insightful, and intuitive solutions. My expertise lies in applying statistical techniques to identify patterns and solve real-world problems. I am proficient with business intelligence software, including Tableau and PowerBI, which I use to model and visualize data, effectively communicating organizational insights to stakeholders. I have a strong command of SQL and a good understanding of Python.
+I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I specialize in acquiring, integrating, organizing, cleaning, and validating data. I take pleasure in transforming complex data‑related challenges into simple, insightful, and intuitive solutions. My expertise lies in applying statistical techniques to identify patterns and solve real‑world problems. I am proficient with business intelligence software, including Tableau and PowerBI, which I use to model and visualize data, effectively communicating organizational insights to stakeholders. I have a strong command of SQL and a good understanding of Python.
 
 ### Skills
 
-- **R-Programming**: 100%
+- **R‑Programming**: 100%
 - **Python Programming**: 70%
+- **SQL**: 100%
 - **Data Visualization through R and PowerBI**: 70%
 - **Excel/Google Sheets**: 100%
 - **Data Modeling**: 100%
@@ -28,17 +29,26 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
   - Rajasthan Technical University, Jodhpur
   - 10.2015
 
-- **Analysis - Data Analyst in SQL**
+- **Analysis – Data Analyst in SQL**
   - DataCamp, Online
   - 04.2023
 
 - **Data Analytics Certification**
-  - Google, Online - Coursera
+  - Google, Online – Coursera
   - 08.2022
 
 - **Fundamentals of Digital Marketing**
   - Google, Google Digital Garage
   - 12.2021
+
+- **Business Intelligence Analyst**
+  - Microsoft, Online – Coursera
+
+- **Data Science Course**
+  - DataCamp, Online
+
+- **Deep Learning Course**
+  - Online
 
 ### Work Experience
 
@@ -56,7 +66,7 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
   - Developed creative digital content and unique campaigns.
   - Supported SEO initiatives to improve content, keywords, and branding.
   - Oversaw social media accounts and image licensing.
-  - Produced blog posts, pay-per-click ads, and promotional content.
+  - Produced blog posts, pay‑per‑click ads, and promotional content.
 
 - **WordPress Designer, Stepsharp**
   - January 2018 — June 2019
@@ -69,9 +79,9 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 ### Connect With Me
 
 <div align="center">
-  <a href="https://bold.pro/my/abdul-mussavir-230801235445"><img align="center" alt="Abdul Mussavir | Bold.pro" width="28px" src="https://www.vectorlogo.zone/logos/bold/bold-tile.svg" /></a>
-  <a href="https://aussieanalyst.com"><img align="center" alt="Abdul Mussavir | Personal Website" width="28px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" /></a>
+  <a href="https://www.aussieanalyst.com/"><img align="center" alt="Abdul Mussavir | Personal Website" width="28px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" /></a>
   <a href="https://github.com/abdul-mussavir"><img align="center" alt="GitHub" width="28px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></a>
+  <a href="https://www.linkedin.com/in/abdul-mussavir/"><img align="center" alt="LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 </div>
 
 <br />
@@ -93,15 +103,3 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 
 <h1 align="center">👨‍💻 Abdul's Coding Journey</h1>
 <p align="center">Abdul Mussavir, a data analyst based in Adelaide, South Australia, specializes in acquiring, integrating, organizing, cleaning, and validating data. I enjoy transforming complex data-related challenges into simple, insightful, and intuitive solutions. My expertise lies in applying statistical techniques to identify patterns and solve real-world problems. I am proficient with business intelligence software, including Tableau and PowerBI, which I use to model and visualize data, effectively communicating organizational insights to stakeholders. I have a strong command of SQL and a good understanding of Python.</p>
-
-[linkedin]: https://www.linkedin.com/in/abdul-mussavir/
-[boldpro]: https://bold.pro/my/abdul-mussavir-230801235445
-[website]: https://aussieanalyst.com
-[r-programming]: https://www.r-project.org
-[python]: https://www.python.org
-[excel]: https://www.microsoft.com/en-us/microsoft-365/excel
-[powerbi]: https://powerbi.microsoft.com
-[tableau]: https://www.tableau.com
-[google-sheets]: https://www.google.com/sheets/about/
-[sql]: https://www.mysql.com
-[github]: https://github.com/abdul-mussavir
