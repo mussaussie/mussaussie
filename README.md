@@ -15,13 +15,14 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 ### Skills
 
 - **R‑Programming**: 100%
-- **Python Programming**: 70%
+- **Python Programming**: 90%
 - **SQL**: 100%
 - **Data Visualization through R and PowerBI**: 70%
 - **Excel/Google Sheets**: 100%
 - **Data Modeling**: 100%
 - **Technical Analysis**: 100%
 - **Tableau**: 100%
+  
 
 ### Education and Certifications
 
