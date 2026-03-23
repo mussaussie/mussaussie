@@ -28,7 +28,6 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 
 - **Bachelor of Technology in Electrical and Electronics Engineering**
   - Rajasthan Technical University, Jodhpur
-  - 10.2015
 
 - **Analysis – Data Analyst in SQL**
   - DataCamp, Online
