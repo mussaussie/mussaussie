@@ -24,31 +24,16 @@ I’m Abdul Mussavir, a Data Analyst based in Adelaide, South Australia. I speci
 - **Tableau**: 100%
   
 
-### Education and Certifications
+### Education & Certifications
+- **Certified Data Scientist** – Mar 2026
+- **B.Tech in Electrical and Electronics Engineering** – Rajasthan Technical University, Jodhpur (Oct 2015)
+- **Data Analyst in SQL** – DataCamp (Apr 2023)
+- **Data Analytics Certification** – Google (Aug 2022)
+- **Fundamentals of Digital Marketing** – Google Digital Garage (Dec 2021)
+- **Business Intelligence Analyst** – Microsoft/Coursera
+- **Data Science Course** – DataCamp
+- **Deep Learning Course** – various providers
 
-- **Bachelor of Technology in Electrical and Electronics Engineering**
-  - Rajasthan Technical University, Jodhpur
-
-- **Analysis – Data Analyst in SQL**
-  - DataCamp, Online
-  - 04.2023
-
-- **Data Analytics Certification**
-  - Google, Online – Coursera
-  - 08.2022
-
-- **Fundamentals of Digital Marketing**
-  - Google, Google Digital Garage
-  - 12.2021
-
-- **Business Intelligence Analyst**
-  - Microsoft, Online – Coursera
-
-- **Data Science Course**
-  - DataCamp, Online
-
-- **Deep Learning Course**
-  - Online
 
 ### Work Experience
 
